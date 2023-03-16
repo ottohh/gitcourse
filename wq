@@ -1,0 +1,109 @@
+[33mcommit 6f0592aeed607a659545425ab1b1b9ad52d05912[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/create-awesome[m[33m)[m
+Merge: 7b4d992 9bb7a50
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Thu Mar 16 15:13:57 2023 +0200
+
+    deleteHelloWorld
+
+[33mcommit 7b4d992ca9042eaec58e19be5317ade56590e628[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: ottohh <ottoperttulasta@gmail.com>
+Date:   Tue Jan 3 21:06:07 2023 +0200
+
+    Create README.md
+
+[33mcommit 44266c96b8eb2739866d42599ca890026ac2f0fb[m
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Tue Nov 15 12:31:53 2022 +0200
+
+    ignore
+
+[33mcommit 91e22ada0db2f6fa840776ce7e50c9484dacb3de[m
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Tue Nov 15 12:24:22 2022 +0200
+
+    gitignore
+
+[33mcommit 7930c2275311864d520e96c498569a6b4caff94d[m
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Tue Nov 15 12:22:52 2022 +0200
+
+    gitignore
+
+[33mcommit 8b9aa5318d5d1339032ba7215b67121beed5d43e[m
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Tue Nov 15 12:19:29 2022 +0200
+
+    remove
+
+[33mcommit e76455715e00bd163ee328c6e94c90eddb62ced4[m
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Tue Nov 15 12:16:20 2022 +0200
+
+    checkout
+
+[33mcommit 7993bda0f68e7a20d01b036d338aee749a27f584[m
+Merge: 0d7cea4 dd2979f
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Tue Nov 15 12:10:35 2022 +0200
+
+    Merge https://course-gitlab.tuni.fi/git-course/basics-materials
+
+[33mcommit 0d7cea479caa70906b5f6a52db67f2dda53c6f74[m
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Tue Nov 15 12:05:18 2022 +0200
+
+    fix
+
+[33mcommit 0b8d56511c801ab9b19db47e770d61a584d61beb[m
+Author: Otto Haarahiltunen <ottoperttulasta@gmail.com>
+Date:   Tue Nov 15 11:59:18 2022 +0200
+
+    helloworld
+
+[33mcommit dd2979f9609ce45e6739a9e07b895342efa62956[m
+Author: Mikko Luhtasaari <mikko.luhtasaari@tuni.fi>
+Date:   Tue May 12 13:11:49 2020 +0300
+
+    Add file to test settings
+
+[33mcommit 9bb7a505374c63502be00fe0f9bbfff438b6a484[m[33m ([m[1;31mintermediate/master[m[33m)[m
+Author: Mikko <mikko.luhtasaari@tuni.fi>
+Date:   Wed Jan 15 13:30:28 2020 +0200
+
+    Initial commit
+
+[33mcommit 4e6605f7f49a0c6632248c60145f2da46addc89a[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:47:54 2019 -0700
+
+    A simple test
+
+[33mcommit 07291091b01a983d256488357b263ddb087d0188[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:14:09 2019 -0700
+
+    Removed debug-prints
+
+[33mcommit dd8c56cede9b109c1df7bda13abc1b1b7b79ed0b[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:12:41 2019 -0700
+
+    Merge-sort
+
+[33mcommit b6fd9edcecad84d37e52e93a9acbd02233163316[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:47:04 2019 -0700
+
+    Strings to integers
+
+[33mcommit be5d6373836d9d693c1d9e1dffb518f9331e4ff8[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:41:24 2019 -0700
+
+    Basic input
+
+[33mcommit e1b91edb8eeeee33b43c93653e3419a14efedd5f[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:22:41 2019 -0700
+
+    Initial commit.
